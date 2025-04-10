@@ -72,8 +72,8 @@ streamlit run app.py
 - Histórico de Analises de Vagas
 ![image](https://github.com/user-attachments/assets/e2331e60-b677-4aca-8ca7-a96b4a5d2c82)
 
-![image](https://github.com/user-attachments/assets/e9c06dd5-7285-4b9d-93a3-faa670f169a5)
-
+![image](https://github.com/user-attachments/assets/a254aab4-ab78-4b3c-a95b-ca250793fe8b)
+![image](https://github.com/user-attachments/assets/31b9f08e-4947-468e-aead-6aa8e403cc11)
 
 Criado com ❤️ por Luiz Fernando Silva Monteiro.
 
