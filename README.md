@@ -75,7 +75,7 @@ streamlit run app.py
 ![image](https://github.com/user-attachments/assets/a254aab4-ab78-4b3c-a95b-ca250793fe8b)
 ![image](https://github.com/user-attachments/assets/31b9f08e-4947-468e-aead-6aa8e403cc11)
 
-Criado com ❤️ por Luiz Fernando Silva Monteiro.
+Criado por Luiz Fernando Silva Monteiro.
 
 Este projeto é uma vitrine de aprendizado e integração entre IA + Python. Sinta-se à vontade para clonar, contribuir e compartilhar!
 
