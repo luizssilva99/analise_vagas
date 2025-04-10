@@ -49,7 +49,6 @@ streamlit run app.py
 - Identifica e extrai o cargo automaticamente
 - Salva histórico de análises em banco local
 - Marcar como favorito
-- Exporta análise como PDF
 - Dashboard com filtro por palavra-chave
 
 ## 📂 Estrutura do Projeto
@@ -64,18 +63,17 @@ streamlit run app.py
 ```
 
 ## 🚀 Prints Recomendados (para README ou LinkedIn)
-- Tela inicial
-![image](https://github.com/user-attachments/assets/a853a256-2d9b-40fb-95b1-da1f30967dda)
+- Tela inicial carregando o PDF e analisando a descrição da vaga
+![image](https://github.com/user-attachments/assets/21e61850-82c5-4701-a323-42079968b1ec)
 
-- Dashboard com histórico e função de favoritar
-- Visual da exportação em PDF
+- Análise feita, ele comparou meu currículo com a descrição da vaga
+![image](https://github.com/user-attachments/assets/dc045d43-d062-440b-9ba3-59d98652e105)
 
-## 📈 Possíveis Melhorias
-- Suporte a mais idiomas
-- Upload de vagas em PDF ou link
-- Deploy remoto com UI otimizada
+- Histórico de Analises de Vagas
+![image](https://github.com/user-attachments/assets/e2331e60-b677-4aca-8ca7-a96b4a5d2c82)
 
----
+![image](https://github.com/user-attachments/assets/e9c06dd5-7285-4b9d-93a3-faa670f169a5)
+
 
 Criado com ❤️ por Luiz Fernando Silva Monteiro.
 
