@@ -64,7 +64,9 @@ streamlit run app.py
 ```
 
 ## 🚀 Prints Recomendados (para README ou LinkedIn)
-- Tela de análise com resultado gerado
+- Tela inicial
+![image](https://github.com/user-attachments/assets/a853a256-2d9b-40fb-95b1-da1f30967dda)
+
 - Dashboard com histórico e função de favoritar
 - Visual da exportação em PDF
 
