@@ -27,8 +27,8 @@ Embora ferramentas como o ChatGPT já consigam fazer esse tipo de análise, o fo
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seuusuario/analisar-vaga-ia.git
-cd analisar-vaga-ia
+git clone https://github.com/luizssilva99/analise_vagas.git
+cd analise_vagas
 ```
 
 2. Instale as dependências:
@@ -75,7 +75,7 @@ streamlit run app.py
 
 ---
 
-Criado com ❤️ por [Seu Nome].
+Criado com ❤️ por Luiz Fernando Silva Monteiro.
 
 Este projeto é uma vitrine de aprendizado e integração entre IA + Python. Sinta-se à vontade para clonar, contribuir e compartilhar!
 
