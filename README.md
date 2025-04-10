@@ -20,7 +20,7 @@ Embora ferramentas como o ChatGPT já consigam fazer esse tipo de análise, o fo
 - **Python 3.11+**
 - **Streamlit** (interface web)
 - **SQLite3** (banco de dados local)
-- **Gemma (3B ou 7B)** via API local (`http://localhost:1234`)
+- **Gemma (12B)** via API local (`http://localhost`)
 - **FPDF** e **pypdf** para leitura e geração de PDFs
 
 ## 🔧 Como Rodar Localmente
@@ -36,7 +36,7 @@ cd analise_vagas
 pip install -r requirements.txt
 ```
 
-3. Inicie o modelo Gemma (em ambiente local, como `text-generation-webui` com endpoint REST em `localhost:1234`)
+3. Inicie o modelo Gemma (em ambiente local, como `text-generation-webui` com endpoint REST em `localhost`)
 
 4. Execute o app:
 ```bash
